@@ -1,0 +1,2 @@
+llama-cpp-agent==0.0.17
+gradio==4.20.1
